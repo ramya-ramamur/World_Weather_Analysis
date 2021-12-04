@@ -15,6 +15,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 44,Acapulco,MX,85.82,scattered clouds,16.8634,-99.8901,HS Hotsson Smart Acapulco
 45,Shakawe,BW,82.78,broken clouds,-18.3667,21.85,Ditlhapi Guest House
 51,Vallenar,CL,81.54,clear sky,-28.5708,-70.7581,Humacao Bed & Breakfast
+53,Orange Cove,US,76.44,scattered clouds,36.6244,-119.3137, 
 56,Omboue,GA,76.66,light rain,-1.5746,9.2618,Hotel Olako
 59,Puerto Ayora,EC,78.76,broken clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
 61,Salalah,OM,75.29,clear sky,17.0151,54.0924,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel"
@@ -45,7 +46,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 137,Mahebourg,MU,78.26,few clouds,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
 140,Bambous Virieux,MU,78.22,few clouds,-20.3428,57.7575,Casa Tia Villa
 142,Hilo,US,82.8,few clouds,19.7297,-155.09,Hilo Hawaiian Hotel
+148,Dutlwe,BW,82.08,scattered clouds,-23.9833,23.9, 
 149,Gorontalo,ID,75.45,overcast clouds,0.5412,123.0595,Maqna Hotel by Prasanthi
+156,Goundi,TD,80.83,broken clouds,9.3627,17.366, 
 160,Kalabo,ZM,80.78,overcast clouds,-14.97,22.6814,Sikakubete Guest House Kalabo Town Council
 166,Aloleng,PH,77.34,overcast clouds,16.1307,119.7824,Steve Walden and Emma Sison-Walden Residence
 169,Inhambane,MZ,76.14,few clouds,-23.865,35.3833,Oceano
@@ -65,12 +68,14 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 228,Laguna,US,76.23,fog,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
 232,Kendari,ID,75.56,overcast clouds,-3.945,122.4989,Hotel Wixel
 233,Iberia,US,76.08,clear sky,29.9502,-91.7507,back to back rv park
+234,Thinadhoo,MV,81.66,few clouds,0.5333,72.9333, 
 236,Salinopolis,BR,79.9,overcast clouds,-0.6136,-47.3561,Salinas Park Resort Maçarico AP101
 240,Malindi,KE,79.23,light rain,-3.2175,40.1191,African House Resort
 248,Alofi,NU,80.49,broken clouds,-19.0595,-169.9187,Taloa Heights
 249,Bodden Town,KY,84.2,few clouds,19.2833,-81.25,Will T Place
 250,Bengkulu,ID,76.59,moderate rain,-3.8004,102.2655,Grage Hotel Bengkulu
 257,Soure,BR,80.35,moderate rain,-0.7167,-48.5233,Casarão da Amazônia
+258,Avera,US,80.71,few clouds,33.194,-82.5271, 
 259,Kerema,PG,79.07,overcast clouds,-7.9631,145.7785,Frena Lodge
 260,Boffa,GN,81.5,broken clouds,10.1667,-14.0333,Hôtel Niara Belly
 263,Champoton,MX,77.68,overcast clouds,19.35,-90.7167,HOTEL Posada La Regia
@@ -90,9 +95,11 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 302,Coruripe,BR,79.7,few clouds,-10.1256,-36.1756,Pousada e Hotel Litoral Sul
 309,Ouargaye,BF,83.62,clear sky,11.5033,0.0572,Résidence le Cotonnier
 319,Cururupu,BR,77.34,overcast clouds,-1.8283,-44.8683,POUSADA TRAVÉS'CIA
+321,Masuguru,TZ,77.54,scattered clouds,-11.3667,38.4167, 
 325,Mabaruma,GY,79.32,overcast clouds,8.2,-59.7833,Monty Brooms Guest House
 326,Grand-Santi,GF,75.65,broken clouds,4.25,-54.3833,Hotel La Villa Couacou
 327,Meulaboh,ID,75.87,overcast clouds,4.1363,96.1285,Kost Pria
+336,Jutai,BR,77.47,moderate rain,-5.1833,-68.9, 
 345,Mareeba,AU,76.44,overcast clouds,-17.0,145.4333,Trinity Plains Tourist Park
 347,Sokoto,NG,77.95,scattered clouds,13.0609,5.239,Giginya Coral Hotel
 349,La Asuncion,VE,87.53,overcast clouds,11.0333,-63.8628,Colinas de Matasiete
@@ -106,7 +113,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 388,Maningrida,AU,83.71,broken clouds,-12.0667,134.2667,Dhukurrdji Lodge
 389,San Carlos,VE,87.13,overcast clouds,9.6612,-68.5827,Hotel Paternopoli
 391,Brenham,US,81.43,scattered clouds,30.1669,-96.3977,Hampton Inn & Suites Brenham
+398,Lagos,NG,84.52,overcast clouds,6.5833,3.75, 
 400,Morondava,MG,80.76,scattered clouds,-20.2833,44.2833,La Case Bambou
+401,Aripuana,BR,77.05,overcast clouds,-9.1667,-60.6333, 
 407,Lethem,GY,86.97,overcast clouds,3.3803,-59.7968,Savannah Inn
 409,Wukari,NG,81.43,broken clouds,7.85,9.7833,Elimtop
 413,Makaha,US,79.65,heavy intensity rain,21.4694,-158.2175,Hawaiian Princess Resort
@@ -140,6 +149,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 503,San Cristobal,VE,80.78,few clouds,7.7669,-72.225,Posada Villaven C.A.
 504,Trinidad,BO,85.98,heavy intensity rain,-14.8333,-64.9,Hotel Piesta
 506,Harper,LR,79.29,light rain,4.375,-7.7169,Screensaver
+508,Micheweni,TZ,79.36,clear sky,-4.9667,39.8333, 
 514,Mandera,KE,86.52,scattered clouds,3.9366,41.867,Mwalimu Guest mandera
 517,Sinazongwe,ZM,83.57,few clouds,-17.2614,27.4618,Lakeview Lodge
 519,Cayenne,GF,77.09,light rain,4.9333,-52.3333,Hôtel Le Dronmi
@@ -151,12 +161,14 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 537,Phalaborwa,ZA,76.28,overcast clouds,-23.943,31.1411,Bothabelo Bed and Breakfast
 541,Santa Ana,US,75.42,haze,33.7456,-117.8678,Santa Ana Travel Inn
 542,Chaiya,TH,80.19,overcast clouds,9.3862,99.1986,JP Place
+544,Ippy,CF,77.52,overcast clouds,6.2679,21.2247, 
 545,Kununurra,AU,80.58,overcast clouds,-15.7667,128.7333,Hotel Kununurra
 548,San Felipe,VE,78.15,overcast clouds,10.3399,-68.7425,Posada Llovizna Rodríguez
 550,Male,MV,82.35,broken clouds,4.1748,73.5089,Hotel Octave Maldives
 553,Gold Coast,AU,76.17,clear sky,-28.0,153.4333,Mantra Towers of Chevron Surfers Paradise
 557,Yeppoon,AU,78.58,broken clouds,-23.1333,150.7333,Villa Mar Colina
 558,Wamba,NG,77.65,scattered clouds,8.9333,8.6,Roma Zee Guest House Annex
+561,Angoram,PG,76.46,broken clouds,-4.0625,144.0661, 
 562,Loiza,PR,84.2,scattered clouds,18.4313,-65.8802,Malibu Beachfront
 564,Vaitape,PF,81.66,scattered clouds,-16.5167,-151.75,Conrad Bora Bora Nui
 579,Iracoubo,GF,78.78,broken clouds,5.4802,-53.2011,Le Gîte d’Iracoubo
@@ -171,14 +183,17 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 603,The Valley,AI,84.06,scattered clouds,18.217,-63.0578,CeBlue Villas & Beach Resort
 607,San Andres,CO,84.22,overcast clouds,12.5847,-81.7006,Hotel Arena Blanca
 608,Sitio Novo Do Tocantins,BR,87.73,few clouds,-5.5183,-47.4611,Imperial Hotel
+612,Nioro,GM,84.52,overcast clouds,13.35,-15.75, 
 613,Charagua,BO,82.58,overcast clouds,-19.8,-63.2167,Hotel
 614,Maragogi,BR,80.1,scattered clouds,-9.0122,-35.2225,Salinas do Maragogi All Inclusive Resort
 615,Bundaberg,AU,79.21,few clouds,-24.85,152.35,Takalvan Motel
 617,Mahajanga,MG,78.82,few clouds,-15.7167,46.3167,Restaurant Greedy Coco Lodge Majunga
 620,Sindou,BF,80.13,clear sky,10.6667,-5.1667,LERABA HOTEL
 622,Mercedes,AR,76.03,broken clouds,-34.6515,-59.4307,Posada del Inti Centro
+627,Bafata,GW,79.95,scattered clouds,12.1667,-14.75, 
 631,Santa Rosa,PH,75.85,overcast clouds,14.3122,121.1114,Erlyn’s Sta Rosa City Home
 634,Karratha,AU,83.46,clear sky,-20.7377,116.8463,ibis Styles Karratha
+638,Izazi,TZ,75.38,broken clouds,-7.2,35.7333, 
 641,Eydhafushi,MV,81.54,clear sky,5.1033,73.0708,Soneva Fushi
 642,La Joya,MX,85.39,overcast clouds,18.6667,-99.4667,HOTEL Y RESTAURANTE BUGAMBILIAS
 644,Talara,PE,75.96,clear sky,-4.5772,-81.2719,Hostal Oro Negro
@@ -190,5 +205,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 663,Milton,US,76.77,broken clouds,34.1322,-84.3007,Children's Cottage Montessori
 665,Parana,AR,89.29,few clouds,-31.732,-60.5238,Howard Johnson by Wyndham Plaza Hotel Mayorazgo
 667,Angoche,MZ,79.11,clear sky,-16.2325,39.9086,Guest House HESADA
+671,Mount Darwin,ZW,76.89,clear sky,-16.7725,31.5838, 
 672,Beberibe,BR,85.15,overcast clouds,-4.1797,-38.1306,Villa Arte Pousada Morro Branco
 673,Manggar,ID,79.74,overcast clouds,-2.8833,108.2667,Guest Hotel
