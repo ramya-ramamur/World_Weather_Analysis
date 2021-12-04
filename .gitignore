@@ -3,6 +3,7 @@ config.py
 Weather_Database/config.py
 Vacation_Search/config.py
 Vacation_Itinerary/config.py
+VacationPy.ipynb 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
